@@ -1,0 +1,28 @@
+/* HEADER.HTML */
+
+header{
+    font-family: sans-serif;
+}
+
+/* NAVBAR */
+nav{
+    border-bottom: 2px solid #facd8a;
+    border-top: 2px solid #facd8a;
+}
+
+.navbar-brown .navbar-nav .nav-link{
+    color: #fff !important;
+    font-size: 25px;
+    opacity: 0.8;
+}
+
+.bg-brown {
+    background-color: #3D4C31 !important;
+}
+
+/* OTHER GENERIC STUFF? */
+
+a {
+    text-decoration: none;
+    color: white;
+}
